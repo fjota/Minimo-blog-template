@@ -7,9 +7,10 @@ Clean and minimal blog template
 
 Title: Minimo - Free PSD Template
 <br>
-Author: Chiara Canderan (https://www.behance.net/chiaracanderan)
+Author: Chiara Canderan 
+<a href="https://www.behance.net/chiaracanderan" target="_blank">https://www.behance.net/chiaracanderan</a>
 <br>
-Source: https://www.behance.net/gallery/34771719/Minimo-Free-PSD-Template
+Source: <a href="https://www.behance.net/gallery/34771719/Minimo-Free-PSD-Template" target="_blank">https://www.behance.net/gallery/34771719/Minimo-Free-PSD-Template</a>
 
 ## License
 
